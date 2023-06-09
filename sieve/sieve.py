@@ -1,0 +1,1 @@
+"""Sieves stocks based on Value Investing principles"""
