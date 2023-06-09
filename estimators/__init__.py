@@ -19,5 +19,4 @@ def get_peg_ratios(growth_rates, assets):
 
 def get_excess_expected_returns(peg_ratios, assets):
     """Runs montecarlo to estimate distribution of expected returns"""
-
-
+    pass
